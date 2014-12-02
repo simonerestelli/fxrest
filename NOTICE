@@ -1,0 +1,7 @@
+This software is just a simple implementation of experiment of a malleable REST interface.
+
+This software uses the cherrypy framework (http://www.cherrypy.org/).
+
+Every API (classes, methods, attributes) defined in this software is intended for internal use only and may
+change at any time without notice, therefore use it at your own risk.
+
